@@ -3,9 +3,8 @@
 </p>
 
 <h1 align="center">MD Abdur Rahim Badsha</h1>
-<h3 align="center">SEO Expert | AEO | GEO | AI Search Optimization</h3>
+<h2 align="center">SEO Expert | AEO | GEO | AI Search Optimization</h2>
 
-<p align="center">👋 Hi there, I'm <b>MD Abdur Rahim Badsha</b></p>
 
 ---
 
